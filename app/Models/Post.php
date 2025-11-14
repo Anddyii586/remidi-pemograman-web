@@ -9,13 +9,13 @@ class Post {
                 'id' => 1,
                 'title' => 'Haidir ali 2301040011',
                 'content' => 'Laptop bisnis ringan dan tangguh, cocok untuk profesional.',
-                'image' => 'img/laptop1.jpg',
+                'image' => 'img/se1.jpg',
             ],
             [
                 'id' => 2,
                 'title' => 'ahmad rifandi 2301040009',
                 'content' => 'Laptop gaming dengan performa tinggi dan desain futuristik.',
-                'image' => 'img/laptop2.jpg',
+                'image' => 'img/2.jfif',
             ],
         ];
     }

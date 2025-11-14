@@ -11,6 +11,8 @@ class BlogController extends Controller
             return view('pages.home');
         }
 
+        
+
 
         public function product()
     {
@@ -50,6 +52,6 @@ class BlogController extends Controller
             'bio' => 'penulis.'
         ];
 
-        return view('about', compact('info'));
+        return view('components.about');
     }
 }

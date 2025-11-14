@@ -23,7 +23,7 @@
             <a class="nav-link active" aria-current="page" href="/product">Product</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="/halamanDua">About</a>
+            <a class="nav-link active" aria-current="page" href="/about">About</a>
           </li>
         </ul>
         
